@@ -1,12 +1,12 @@
-# blescan
+# BLE SCAN con FLUTTER
 
-A new Flutter project.
+Esta Aplicacion es una app simple para escanear dispostivos con Tecnologia Bluetooth Low Energy en la cual se nos mostraran los dispositivos escaneados en una lista a los cuales no podreos conectar. 
 
-## Getting Started
+## Antes de Comenzr
 
-This project is a starting point for a Flutter application.
+Este proyecto utiliza como base el entorno de flutter y el lenguaje de progamacion dart en general para la solucion de un ambiente multiplataforma en el cual se busco desarrollar una app compatible con Android e iOS que se capaz de escanear y conecatrase a dispositivos con BLE.
 
-A few resources to get you started if this is your first Flutter project:
+Necesitaras las siguientes librerias:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
